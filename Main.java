@@ -31,4 +31,3 @@ System.out.println(" a: " + a);
 System.out.println("e: " + e);
 System.out.println("i" + i);
 System.out.println("o" + o);
-System.out.println("u" + u);
